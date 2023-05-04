@@ -14,8 +14,10 @@ const Home = () => {
 	return (
 		<div>
 			<Navbar />
-			<Jumbotron />
-			<Cards />
+			<div>
+				<Jumbotron />
+				<Cards />
+			</div>
 		</div>
 	);
 };
