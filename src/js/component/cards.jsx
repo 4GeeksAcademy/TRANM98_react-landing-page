@@ -11,8 +11,7 @@ export const Cards = () => {
           <div className="card-body">
             <h5 className="card-title">Card title</h5>
             <p className="card-text">
-              Some quick example text to build on the card title and make up
-              the bulk of the card's content.
+            Praesent rutrum nulla elit, vitae vulputate est dapibus sed. Nunc pharetra, nibh eget accumsan feugiat, magna nisi sagittis erat, non ultrices ligula arcu ut risus. Cras tincidunt dolor diam, id bibendum neque faucibus at. 
             </p>
             <div className = "btn-wrapper card-footer text-muted">
                 <a href="#" className="card-btn btn btn-primary">
@@ -28,8 +27,7 @@ export const Cards = () => {
           <div className="card-body">
             <h5 className="card-title">Card title</h5>
             <p className="card-text">
-              Some quick example text to build on the card title and make up
-              the bulk of the card's content.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sodales dui, vitae molestie diam. Vivamus gravida purus vel lorem efficitur auctor. Sed pretium mi sed erat rhoncus, nec tincidunt velit ullamcorper.
             </p>
             <div className = "btn-wrapper card-footer text-muted">
                 <a href="#" className="card-btn btn btn-primary">
@@ -45,8 +43,7 @@ export const Cards = () => {
           <div className="card-body">
             <h5 className="card-title">Card title</h5>
             <p className="card-text">
-              Some quick example text to build on the card title and make up
-              the bulk of the card's content.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sodales dui, vitae molestie diam. Vivamus gravida purus vel lorem efficitur auctor. Sed pretium mi sed erat rhoncus, nec tincidunt velit ullamcorper.
             </p>
             <div className = "btn-wrapper card-footer text-muted">
                 <a href="#" className="card-btn btn btn-primary">
@@ -62,8 +59,7 @@ export const Cards = () => {
           <div className="card-body">
             <h5 className="card-title">Card title</h5>
             <p className="card-text">
-              Some quick example text to build on the card title and make up
-              the bulk of the card's content.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sodales dui, vitae molestie diam. Vivamus gravida purus vel lorem efficitur auctor. Sed pretium mi sed erat rhoncus, nec tincidunt velit ullamcorper.
             </p>
             <div className="btn-wrapper card-footer text-muted">
                 <a href="#" className="card-btn btn btn-primary">

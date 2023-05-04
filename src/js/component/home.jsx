@@ -3,6 +3,7 @@ import React from "react";
 import { Navbar } from "./navbar.jsx";
 import { Cards } from "./cards.jsx";
 import { Jumbotron } from "./jumbotron.jsx";
+import {Footer} from "./footer.jsx"
 
 
 
@@ -17,6 +18,9 @@ const Home = () => {
 			<div>
 				<Jumbotron />
 				<Cards />
+			</div>
+			<div>
+				<Footer />
 			</div>
 		</div>
 	);
