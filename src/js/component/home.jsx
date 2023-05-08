@@ -14,9 +14,13 @@ import rigoImage from "../../img/rigo-baby.jpg";
 const Home = () => {
 	return (
 		<div>
-			<Navbar />
+			<div>
+				<Navbar />
+			</div>
 			<div>
 				<Jumbotron />
+			</div>
+			<div>
 				<Cards />
 			</div>
 			<div>

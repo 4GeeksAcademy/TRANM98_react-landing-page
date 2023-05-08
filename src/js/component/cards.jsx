@@ -4,7 +4,7 @@ import './index.css';
 
 export const Cards = () => {
   return (
-    <div className="row row-cols-1 row-cols-md-2 row-cols-lg-4">
+    <div className="row row-cols-1 row-cols-md-2 row-cols-lg-4 cards-container">
       <div className="col mb-4">
         <div className="card">
           <img className="card-img-top" src="..." alt="Card image cap" />

@@ -4,4 +4,14 @@
     justify-content: center;
     align-items: center;
   }
+
+  .jumbotron{
+    background-color: #dcdedc;
+    max-width: 97%;
+  }
+
+  .cards-container{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
   
