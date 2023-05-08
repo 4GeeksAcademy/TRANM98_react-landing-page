@@ -15,7 +15,7 @@ export const Cards = () => {
             </p>
             <div className = "btn-wrapper card-footer text-muted">
                 <a href="#" className="card-btn btn btn-primary">
-                    Go somewhere
+                    Find out More!
                 </a>
             </div>
           </div>
@@ -31,7 +31,7 @@ export const Cards = () => {
             </p>
             <div className = "btn-wrapper card-footer text-muted">
                 <a href="#" className="card-btn btn btn-primary">
-                    Go somewhere
+                Find out More!
                 </a>
             </div>
           </div>
@@ -47,7 +47,7 @@ export const Cards = () => {
             </p>
             <div className = "btn-wrapper card-footer text-muted">
                 <a href="#" className="card-btn btn btn-primary">
-                    Go somewhere
+                Find out More!
                 </a>
             </div>
           </div>
@@ -63,7 +63,7 @@ export const Cards = () => {
             </p>
             <div className="btn-wrapper card-footer text-muted">
                 <a href="#" className="card-btn btn btn-primary">
-                    Go somewhere
+                  Find out More!
                 </a>
             </div>
           </div>

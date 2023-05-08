@@ -3,7 +3,33 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 0;
+    margin: 0;
   }
+.card-body {
+  padding: 0px;
+}
+.card-title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+
+
+}
+
+.card-text{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+
+}
+.card-img-top{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
   .jumbotron{
     background-color: #dcdedc;
